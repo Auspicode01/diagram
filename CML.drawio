@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T17:40:56.011Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6-sSFAWCsC4btNZw7b-t" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T18:53:54.011Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SOfQQpOfBNm4KUI9jeea" version="24.2.7" type="github">
   <diagram name="Page-1" id="ghBPMaWXtcuGt5V0-RNR">
     <mxGraphModel dx="988" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="qnFcuY7XLDRNSBZMsk60-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;mail-ops&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#429C0F;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qnFcuY7XLDRNSBZMsk60-7" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;notification-service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#429C0F;" vertex="1" parent="1">
+        <mxCell id="qnFcuY7XLDRNSBZMsk60-7" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;notification-service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#429C0F;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qnFcuY7XLDRNSBZMsk60-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;home-bills&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#429C0F;" vertex="1" parent="1">
